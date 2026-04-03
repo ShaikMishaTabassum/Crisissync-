@@ -1,9 +1,5 @@
 # Crisissync
 
-Here’s a clean, professional GitHub description you can use:
-
----
-
 **CrisisSync — Real-Time Disaster Relief Coordination OS**
 
 CrisisSync is an offline-first, AI-powered coordination platform designed to streamline disaster response during critical situations such as floods, earthquakes, and wildfires. In high-pressure environments where communication infrastructure often fails, CrisisSync enables seamless coordination between NGOs, hospitals, volunteers, and emergency teams.
